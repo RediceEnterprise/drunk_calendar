@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 func main() {
-	println("Drunk Calendar")
+	fmt.Println("Drunk Calendar")
 }
